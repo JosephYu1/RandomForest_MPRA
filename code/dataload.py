@@ -6,7 +6,7 @@
 import h5py
 import numpy as np
 
-path = "../data/"
+path = "../../"
 
 filenames = {"test_file_name": str(path + "test.hdf5"), 
              "train_file_name": str(path + "train.hdf5"), 

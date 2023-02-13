@@ -95,16 +95,6 @@ def flatten(data):
 
 
 ###
-#   RandomForestRegressor
-###
-def train():
-
-
-def test():
-
-
-
-###
 #   main
 ###
 def main(argv):
